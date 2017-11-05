@@ -2,86 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7333cb11-56b0-4d21-b897-cb355da3f30e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/artifacts/fristMaven_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/artifacts/fristMaven_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/artifacts/poiexcel_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/artifacts/poiexcel_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__com_alibaba_druid_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__com_oracle_ojdbc6_11_1_0_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__javax_javaee_api_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_29.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_springframework_spring_test_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/fristMaven.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/logs/ssm.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/poiexcel/poiexcel.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/poiexcel/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/poiexcel/src/main/java/com/demo/one/Demo1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/poiexcel/src/main/java/com/demo/one/Demo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/poiexcel/src/main/java/com/demo/one/Demo3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/poiexcel/src/main/java/com/demo/two/MergeApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/poiexcel/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/poiexcel/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/java/com/wl/algorithm/ArrayIns.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/java/com/wl/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/java/com/wl/dao/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/java/com/wl/mapper/UserMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/java/com/wl/po/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/java/com/wl/quartz/SelectJob.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/java/com/wl/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/java/com/wl/service/impl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/java/com/wl/utils/DbUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/java/com/wl/utils/PropertyUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/resources/jdbc.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/resources/spring-db.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/resources/spring-mvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fristMaven/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fristMaven/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../fristMaven/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../fristMaven/out/" />
     <ignored path="$PROJECT_DIR$/../fristMaven/target/" />
@@ -1072,12 +993,20 @@
       <workItem from="1509624763267" duration="935000" />
       <workItem from="1509719829263" duration="292000" />
       <workItem from="1509787132854" duration="884000" />
-      <workItem from="1509889791529" duration="1023000" />
+      <workItem from="1509889791529" duration="1268000" />
     </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1509890944291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509890944291</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46163000" />
+    <option name="totallyTimeSpent" value="46408000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1134,6 +1063,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
