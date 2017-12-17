@@ -4,10 +4,11 @@ import java.util.Arrays;
 
 /**
  * Created by WL on 2017/11/13.
+ *
  */
 public class QuickSort {
     public static void main(String[] args) {
-        int a[] = { 49, 38, 65, 97, 76, 13, 27, 49 };
+        int a[] = { 49, 38, 65, 97, 76, 13, 27, 199 };
         quickSort(a);
         System.out.println(Arrays.toString(a));
     }
